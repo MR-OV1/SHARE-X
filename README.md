@@ -1,29 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+MR-OV1+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
+## <b>installation</b>
+```
+FACEBOOK BOT AUTO SHARE TOOL ✌️💥💯
+---------------------------------
 
+rm -rf AUTO-SHARE-
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+MR-OVI+,,👿;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+git clone https://github.com/MR-OV1/AUTO-SHARE-
 
+cd AUTO-SHARE-
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="MR-OV1" /> </p>
+git pull 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-OV1" alt="MR-OV1" /></a> </p>
+python SHARE.py
+ 
+🆕 VERSION LATEST ENJOY 💜
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🖤Thank you For Using My Tools🖤
 
-- Contact Me **Srovi934@gmail.com**
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100070688245790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070688245790" height="30" width="40" /></a>
-</p>
+# Single Command 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifvau&show_icons=true&locale=en&layout=compact" alt="alifvau" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifvau&show_icons=true&locale=en" alt="alifvau" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifvau&" alt="alifvau" /></p>
+```
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/MR-OV1/AUTO-SHARE- ;cd AUTO-SHARE- ; python SHARE.py
+```
+<br/>
+      <a href="https://github.com/MR-OV1/github-readme-stats"><img alt="MR-OV1'sGithub Stats" src="https://github-readme-stats.vercel.app/api?username=MR-OV1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/MR-OV1/github-readme-stats"><img alt="MR-OV1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-OV1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+          <br/>

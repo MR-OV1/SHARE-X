@@ -1,5 +1,8 @@
-##FACEBOOK BOT AUTO SHARE TOOL 
+
+FACEBOOK BOT AUTO SHARE TOOL 
 ``` PYTHON
+rm -rf AUTO-SHARE
+
 pkg update && pkg upgrade
 
 pkg install git

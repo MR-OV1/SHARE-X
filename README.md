@@ -1,3 +1,25 @@
+##FACEBOOK BOT AUTO SHARE TOOL 
+``` PYTHON
+pkg update && pkg upgrade
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/MR-OV1/AUTO-SHARE
+
+cd AUTO-SHARE
+
+python SHARE.py
+```
+
+<b>Screenshot</b>
+[![https://postimg.cc/cKnKbqZG](https://i.postimg.cc/bv6Qd8Br/Screenshot-20221228-093621-Termux.jpg)](https://postimg.cc/TLJc1vnj)
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+MR-OV1+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
@@ -29,33 +51,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifvau&" alt="alifvau" /></p>
 
 
-## <b>installation</b>
-```
-FACEBOOK BOT AUTO SHARE TOOL ✌️💥
----------------------------------
 
-rm -rf AUTO-SHARE-
-
-git clone https://github.com/MR-OV1/AUTO-SHARE-
-
-cd AUTO-SHARE-
-
-git pull 
-
-python SHARE.py
- 
-🆕 VERSION LATEST ENJOY 💜
-
-🖤Thank you For Using My Tools🖤
-
-```
-
-# Single Command 
-
-```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/MR-OV1/AUTO-SHARE- ;cd AUTO-SHARE- ; python SHARE.py
-```
-<br/>
-      <a href="https://github.com/MR-OV1/github-readme-stats"><img alt="MR-OV1'sGithub Stats" src="https://github-readme-stats.vercel.app/api?username=MR-OV1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/MR-OV1/github-readme-stats"><img alt="MR-OV1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-OV1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-          <br/>

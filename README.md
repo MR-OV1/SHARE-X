@@ -16,9 +16,6 @@ cd AUTO-SHARE
 python SHARE.py
 ```
 
-<b>Screenshot</b>
-[![https://postimg.cc/cKnKbqZG](https://i.postimg.cc/bv6Qd8Br/Screenshot-20221228-093621-Termux.jpg)](https://postimg.cc/TLJc1vnj)
-
 
 
 
